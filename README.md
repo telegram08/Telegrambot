@@ -57,7 +57,7 @@
 *   Telegram 🥷暗网搜索🔍:[https://t.me/anwang](https://t.me/jisoucn8)
 *   Telegram 🔥搜片神器🎥:[https://t.me/sopian](https://t.me/jisoucn8)
 *   Telegram 🔥网盘资源🔥电影🔥视频:[https://t.me/ziyuan](https://t.me/jisoucn8)
-*   Telegram 🔥阿里云盘资源搜索:[https://t.me/aliyunpan20w](https://t.me/aliyunpan20w)
+*   Telegram 🔥阿里云盘资源搜索:[https://t.me/aliyunpan](https://t.me/jisouvip8)
 
 ### 常用机器人
 
