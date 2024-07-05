@@ -21,11 +21,11 @@
       <a href="https://t.me/jisou123bot?start=a_5369373921">@极搜JiSou</a>
     </td>
     <td align="center">
-      <a href="https://t.me/jisou123bot?start=a_5369373921">
+      <a href="https://t.me/jisou2bot?start=a_5369373921">
         <img src="https://i.imgur.com/1VoAGvh.png" width="345px;" alt="3"/>
       </a>
       <br />
-      <a href="https://t.me/jisou123bot?start=a_5369373921">@极搜复活版</a>
+      <a href="https://t.me/jisou2bot?start=a_5369373921">@极搜复活版</a>
     </td>
   </tr>
   <tr>
@@ -54,3 +54,12 @@
 | :---        |    :----:   |          :--- |
 | 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
 | 群管理机器人      | [@GroupHelpBot](https://t.me/GroupHelpBot)       |根据自己群组的需要设定一系列的自动化内容，如欢迎语、跳转到社媒账号或独立站、删除信息、警告用户等  |
+
+
+#### TG中文群组索引机器人bot
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 极搜JiSou | [@jisou](https://t.me/jisou123bot?start=a_5369373921)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
+| 极搜JiSou复活版     | [@jisou复活版](https://t.me/jisou2bot?start=a_5369373921)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+
+
