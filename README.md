@@ -54,7 +54,7 @@
 *   Telegram 🔥客户端中文汉化CN:[https://t.me/go2cn](https://t.me/go2cn)
 *   Telegram 🔥最强群组机器人🤖:[https://t.me/jisou](https://t.me/jisou2bot?start=a_5369373921)
 *   Telegram 🔥最强搜索机器人JiSou🤖:[t.me/jisou](https://t.me/jisou123bot?start=a_5369373921)
-*   Telegram 🔞18️+🔥NSFW:[https://t.me/sex]([https://t.me/se200000](https://t.me/kannenbi)
+*   Telegram 🔞18️+🔥NSFW:[https://t.me/sex](https://t.me/kannenbi)
 *   Telegram 🥷暗网搜索🔍:[https://t.me/anwang](https://t.me/jisoucn8)
 *   Telegram 🔥搜片神器🎥:[https://t.me/sopian](https://t.me/jisoucn8)
 *   Telegram 🔥网盘资源🔥电影🔥视频:[https://t.me/ziyuan](https://t.me/jisoucn8)
