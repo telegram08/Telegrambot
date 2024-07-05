@@ -15,14 +15,14 @@
   <tr>
     <td align="center">
       <a href="https://t.me/jisou123bot?start=a_5369373921">
-        <img src="https://i.imgur.com/1VoAGvh.png" width="345px;" alt="3"/>
+        <img src="https://i.imgur.com/1VoAGvh.png"" width="345px;" alt="3"/>
       </a>
       <br />
       <a href="https://t.me/jisou123bot?start=a_5369373921">@极搜JiSou</a>
     </td>
     <td align="center">
       <a href="https://t.me/jisou2bot?start=a_5369373921">
-        <img src="https://i.imgur.com/1VoAGvh.png" width="345px;" alt="3"/>
+        <img src="https://i.imgur.com/uTMZCDf.png" width="345px;" alt="3"/>
       </a>
       <br />
       <a href="https://t.me/jisou2bot?start=a_5369373921">@极搜复活版</a>
